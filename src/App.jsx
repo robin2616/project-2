@@ -3,7 +3,6 @@ import { useEffect, useState } from "react"
 import axios from "axios"
 import './App.css'
 import { ImCross } from "react-icons/im";
-import pic from './image.jpg'
 
 function App() {
    const[api,updatedata]=useState([]);
