@@ -5,13 +5,19 @@ body{
     width: 100%;
 }
 #heading{
-    transform: scale(0.5);
-    translate: -210px -13px;
+    transform: scale(0.78);
+    translate: -130px -10px;
 }
     #mainbox{
-    transform: scale(0.5);
-    translate: -160px 30px;
+    transform: scale(0.75);
+    translate: -100px 50px;
     margin-top: -38px;
+    margin-bottom: 20px;
     
+}
+
+#showbox{
+    translate: -694px;
+    z-index: 1;
 }
 }
